@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nainaa26
 - 👀 I’m interested in Analyzing 
 - 🌱 I’m currently learning Aiml
-- 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: she/her
 
 <!---
